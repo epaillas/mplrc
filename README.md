@@ -1,0 +1,1 @@
+Place under .matplotlib/stylelib
